@@ -1,0 +1,12 @@
+E:\1UnityStudy\indieGame\2\Temp\bin\Debug\Assembly-CSharp.dll
+E:\1UnityStudy\indieGame\2\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\1UnityStudy\indieGame\2\Temp\bin\Debug\UnityEditor.dll
+E:\1UnityStudy\indieGame\2\Temp\bin\Debug\UnityEngine.dll
+E:\1UnityStudy\indieGame\2\Temp\bin\Debug\UnityEngine.UI.dll
+E:\1UnityStudy\indieGame\2\Temp\bin\Debug\Mono.Cecil.dll
+E:\1UnityStudy\indieGame\2\Temp\bin\Debug\nunit.framework.dll
+E:\1UnityStudy\indieGame\2\Temp\bin\Debug\Unity.DataContract.dll
+E:\1UnityStudy\indieGame\2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\1UnityStudy\indieGame\2\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+E:\1UnityStudy\indieGame\2\obj\Debug\Assembly-CSharp.dll
+E:\1UnityStudy\indieGame\2\obj\Debug\Assembly-CSharp.pdb
